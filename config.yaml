@@ -1,0 +1,7 @@
+database:
+  link: mysql:root:root@tcp(127.0.0.1:3306)/gozero
+  debug: true
+  logger:
+    Path: logs/sql
+    Level: all
+    Stdout: true

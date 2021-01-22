@@ -1,0 +1,23 @@
+2021-01-22 11:01:52.510 [DEBU] [  2 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:01:52.510 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:03:15.168 [DEBU] [  1 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:03:15.169 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:03:15.169 [DEBU] [  0 ms] [default] SELECT * FROM `book` LIMIT 1
+2021-01-22 11:03:41.028 [DEBU] [  2 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:03:41.028 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:03:41.029 [DEBU] [  1 ms] [default] SELECT * FROM `book` WHERE `book`='limit 10' LIMIT 1
+2021-01-22 11:04:25.877 [DEBU] [  1 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:04:25.877 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:04:25.878 [DEBU] [  0 ms] [default] SELECT * FROM `book` WHERE `book`='golang高级编程' LIMIT 10
+2021-01-22 11:05:20.278 [DEBU] [  2 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:05:20.278 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:05:20.278 [DEBU] [  0 ms] [default] SELECT * FROM `book` WHERE `book`='golang高级编程' LIMIT 1
+2021-01-22 11:05:37.879 [DEBU] [  1 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:05:37.880 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:05:37.880 [DEBU] [  0 ms] [default] SELECT * FROM `book` WHERE `book`='golang高级编程' AND `price`=59 LIMIT 1
+2021-01-22 11:06:05.016 [DEBU] [  2 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:06:05.016 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:06:05.017 [DEBU] [  1 ms] [default] SELECT * FROM `book` WHERE `book`='golang高级编程' AND `price`=59 LIMIT 1
+2021-01-22 11:12:17.725 [DEBU] [  1 ms] [default] SHOW FULL COLUMNS FROM `book`
+2021-01-22 11:12:17.725 [DEBU] [  0 ms] [default] SELECT * FROM `book`
+2021-01-22 11:12:17.726 [DEBU] [  0 ms] [default] SELECT * FROM `book` WHERE `book`='golang高级编程' AND `price`=59 LIMIT 1
