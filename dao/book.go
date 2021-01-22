@@ -5,7 +5,7 @@
 package dao
 
 import (
-	"goframe_dome/dao/internal"
+	"github.com/wowqhb/goframe_demo/dao/internal"
 )
 
 // bookDao is the manager for logic model data accessing

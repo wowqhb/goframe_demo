@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gogf/gf/encoding/gjson"
 	"github.com/gogf/gf/frame/g"
-	"goframe_dome/dao"
+	"github.com/wowqhb/goframe_demo/dao"
 )
 
 func main() {

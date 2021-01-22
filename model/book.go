@@ -5,7 +5,7 @@
 package model
 
 import (
-	"goframe_dome/model/internal"
+	"github.com/wowqhb/goframe_demo/model/internal"
 )
 
 // Book is the golang structure for table book.

@@ -12,7 +12,7 @@ import (
 	"github.com/gogf/gf/frame/gmvc"
 	"time"
 
-	"goframe_dome/model"
+	"github.com/wowqhb/goframe_demo/model"
 )
 
 // BookDao is the manager for logic model data accessing
