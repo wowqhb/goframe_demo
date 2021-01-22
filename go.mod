@@ -1,4 +1,4 @@
-module goframe_dome
+module github/wowqhb/goframe_dome
 
 go 1.14
 
