@@ -1,4 +1,4 @@
-module github/wowqhb/goframe_demo
+module github.com/wowqhb/goframe_demo
 
 go 1.14
 
